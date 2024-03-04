@@ -9,7 +9,7 @@ const getDefaultcart = () => {
     cart[index] = 0;
   }
 
-  cart[2] = 1;
+  cart[1] = 1;
   return cart;
 };
 
